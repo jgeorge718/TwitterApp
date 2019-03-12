@@ -36,8 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/lKE8Q2q"><a href="//imgur.com/lKE8Q2q"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src='https://imgur.com/wQM9lHg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
